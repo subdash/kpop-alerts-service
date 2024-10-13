@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="EN">
+<head>
+    <title>kpop-alerts-service</title>
+</head>
+<body>
+<h1>Kpop Alerts Service</h1>
+<p>Subscribe here</p>
+<script>
+    function subscribe() {
+        let email = document.getElementById("emailAddress").value;
+        let baseURL = "redacted";
+        gfetch("https://" + baseURL + "/prd/subscribe", {
+            method: "POST",
+            body: JSON.stringify({
+                email
+            })
+        })
+        .then(() => alert(email + " has been subscribed!"))
+        .catch(() => alert("An error occurred processing your subscription request"));
+    }
+</script>
+<label for="emailAddress"><input type="text" id="emailAddress"></label>
+<button onclick="subscribe()">
+    Subscribe
+</button>
+</body>
+</html>

@@ -1,12 +1,13 @@
 package org.example;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
+
 import com.fasterxml.jackson.core.StreamReadFeature;
 import com.fasterxml.jackson.databind.DeserializationFeature;
-import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.json.JsonMapper;
 import com.google.common.io.CharStreams;
-import org.example.mapping.model.success.TicketMasterEventSearchApiResponse;
+import software.amazon.awssdk.regions.Region;
+import software.amazon.awssdk.services.secretsmanager.SecretsManagerClient;
+import software.amazon.awssdk.services.secretsmanager.model.GetSecretValueRequest;
 
 import java.io.*;
 import java.net.*;
@@ -15,35 +16,42 @@ public class TicketMasterAPI {
 
     /**
      * TODO:
-     * - test error response/parsing
      * - handle rate limit errors
-     * - read API key from env
      */
 
     private static final String BASE_URL = "https://app.ticketmaster.com";
     private static final String EVENT_SEARCH_ROUTE = "/discovery/v2/events.json";
-    private static final String API_KEY = "ArczcVznMlEZoupJgqHpkWuo1ASxGEGA";
+    private static final String API_KEY_ARN = System.getenv("API_KEY_ARN");
+    private static final SecretsManagerClient secretsManager = SecretsManagerClient
+            .builder()
+            .region(Region.US_EAST_1)
+            .build();
+    private static final String API_KEY = secretsManager.getSecretValue(GetSecretValueRequest.builder()
+            .secretId(API_KEY_ARN)
+            .build())
+            .secretString();
+
     private static final JsonMapper jackson = JsonMapper
             .builder()
             .disable(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES)
             .disable(StreamReadFeature.AUTO_CLOSE_SOURCE)
             .build();
 
-    public static void main(String[] args) {
-        try {
-            String response = eventSearch(10);
-            TicketMasterEventSearchApiResponse parsed = jackson.readValue(response, TicketMasterEventSearchApiResponse.class);
-            assert parsed != null;
-        } catch (MalformedURLException e) {
-            throw new RuntimeException(e);
-        } catch (URISyntaxException e) {
-            throw new RuntimeException(e);
-        } catch (JsonMappingException e) {
-            throw new RuntimeException(e);
-        } catch (JsonProcessingException e) {
-            throw new RuntimeException(e);
-        }
-    }
+//    public static void main(String[] args) {
+//        try {
+//            String response = eventSearch(10);
+//            TicketMasterEventSearchApiResponse parsed = jackson.readValue(response, TicketMasterEventSearchApiResponse.class);
+//            assert parsed != null;
+//        } catch (MalformedURLException e) {
+//            throw new RuntimeException(e);
+//        } catch (URISyntaxException e) {
+//            throw new RuntimeException(e);
+//        } catch (JsonMappingException e) {
+//            throw new RuntimeException(e);
+//        } catch (JsonProcessingException e) {
+//            throw new RuntimeException(e);
+//        }
+//    }
 
     // https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/#search-events-v2
     public static String eventSearch(int limit) throws MalformedURLException, URISyntaxException {

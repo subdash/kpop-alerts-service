@@ -4,6 +4,7 @@ import com.fasterxml.jackson.annotation.JsonInclude;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public record TicketMasterDate(
-        String localDate
+        String localDate,
+        String localTime
 ) {
 }
