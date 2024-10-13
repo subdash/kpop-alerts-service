@@ -1,0 +1,3598 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "KISS OF LIFE WORLD TOUR: KISS ROAD",
+        "type": "event",
+        "id": "G5dIZb8YabPOk",
+        "test": false,
+        "url": "https://concerts.livenation.com/kiss-of-life-world-tour-kiss-houston-texas-11-26-2024/event/3A00610C09625806",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_SOURCE",
+            "width": 2426,
+            "height": 1366,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-09-06T15:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2024-11-27T03:30:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2024-09-04T15:00:00Z",
+              "endDateTime": "2024-09-06T04:59:00Z",
+              "name": "HOB Foundation Room Member Presale"
+            },
+            {
+              "startDateTime": "2024-09-04T15:00:00Z",
+              "endDateTime": "2024-09-06T04:59:00Z",
+              "name": "Live Nation Presale"
+            },
+            {
+              "startDateTime": "2024-09-04T15:00:00Z",
+              "endDateTime": "2024-09-06T04:59:00Z",
+              "name": "Ticketmaster Presale"
+            },
+            {
+              "startDateTime": "2024-09-05T15:00:00Z",
+              "endDateTime": "2024-09-06T04:59:00Z",
+              "name": "Spotify Presale"
+            },
+            {
+              "startDateTime": "2024-09-04T15:00:00Z",
+              "endDateTime": "2024-09-06T04:59:00Z",
+              "name": "VIP Package Presale"
+            },
+            {
+              "startDateTime": "2024-09-06T15:00:00Z",
+              "endDateTime": "2024-11-26T09:00:00Z",
+              "name": "VIP Package Onsale"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2024-11-26",
+            "localTime": "19:30:00",
+            "dateTime": "2024-11-27T01:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/Chicago",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vkE1",
+              "name": "K-Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "653",
+          "name": "LIVE NATION MUSIC",
+          "description": "LIVE NATION MUSIC / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "653",
+            "name": "LIVE NATION MUSIC",
+            "description": "LIVE NATION MUSIC / NTL / USA"
+          }
+        ],
+        "info": "Doors - 6:00PM Show - 7:30PM Ages: ALL AGES **All support acts are subject to change without notice** To reduce staff contact with guest belongings, we have implemented the following bag policy: Bags up to 12\" x 6\" x 12\" are allowed in the venue. All bags will be searched prior to entry. Bags that are not clear will be subject to additional search. VIP Package Details: - One (1) Premium reserved ticket (first 10 rows) -or- General Admission ticket (varies by show) - Early Entry where applicable - Access to pre-show soundcheck performance by Kiss Of Life (approximately 10-15 minutes) - Group photo with Kiss Of Life (groups of 7) - Tour Poster - Commemorative VIP lanyard",
+        "pleaseNote": "Doors - 6:00PM Show - 7:30PM Ages: ALL AGES **All support acts are subject to change without notice** To reduce staff contact with guest belongings, we have implemented the following bag policy: Bags up to 12\" x 6\" x 12\" are allowed in the venue. All bags will be searched prior to entry. Bags that are not clear will be subject to additional search.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 29.5,
+            "max": 99.5
+          }
+        ],
+        "products": [
+          {
+            "name": "Premier Parking - Kiss of Life - Not a Concert Ticket",
+            "id": "G5dIZb8UKI3ep",
+            "url": "http://concerts.livenation.com/event/3A00610D93A12096",
+            "type": "Parking",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7vAva",
+                  "name": "Parking"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7vAFk",
+                  "name": "Premier"
+                },
+                "family": false
+              }
+            ]
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://mapsapi.tmol.io/maps/geometry/3/event/3A00610C09625806/staticImage?type=png&systemId=HOST",
+          "id": "seatmap"
+        },
+        "accessibility": {
+          "ticketLimit": 4,
+          "id": "accessibility"
+        },
+        "ticketLimit": {
+          "info": "There is an overall 4 ticket limit for this event.",
+          "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false,
+          "id": "ageRestrictions"
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true,
+            "inAppOnlyEnabled": false
+          },
+          "allInclusivePricing": {
+            "enabled": true
+          },
+          "id": "ticketing"
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/G5dIZb8YabPOk?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ917qvzf?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZ917APwH?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "713 Music Hall",
+              "type": "venue",
+              "id": "KovZ917APwH",
+              "test": false,
+              "url": "https://www.ticketmaster.com/713-music-hall-tickets-houston/venue/476244",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/22287v.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                }
+              ],
+              "postalCode": "77201",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Houston"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "401 Franklin Street",
+                "line2": "Suite 1600"
+              },
+              "location": {
+                "longitude": "-95.36416",
+                "latitude": "29.76539"
+              },
+              "markets": [
+                {
+                  "name": "Houston and More",
+                  "id": "22"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 300
+                },
+                {
+                  "id": 408
+                }
+              ],
+              "boxOfficeInfo": {
+                "phoneNumberDetail": "General Inquiries: 832-204-6927 713MusicHallInfo@livenation.com Venue Textline: 281-612-8417 Box Office: 832-204-6920 713MusicHallInfo@livenation.com Premium Seats: 832-463-2514 houstonpremiumseating@livenation.com",
+                "openHoursDetail": "Box Office is only open 2hrs before door time on event days. *Box Office sales are subject to applicable service fees.",
+                "acceptedPaymentDetail": "Cash, VISA, Mastercard, American Express, and Discover. We do not accept personal checks. We encourage credit card payments.",
+                "willCallDetail": "Your phone is your ticket. If you have Will call, tickets can be picked up directly at the Box Office. The original purchaser must bring their credit card and a valid form of identification to pick up any tickets. Will call tickets are only available for pick-up when the Box Office is open."
+              },
+              "parkingDetail": "Limited on-site parking for the POST building including 713 Music Hall. PSS and VIP parking located at entrance on Franklin and Congress. Rideshare is encouraged. Street parking is free after 6pm; there are parking garages/lots near the venue. Including but not limited to, Theater District Garage on Rusk and Lyric Garage on Preston. Credit cards only for on-site parking.",
+              "accessibleSeatingDetail": "Fully accessible seating is located in the main hall and balcony. Space is limited and is based on a first come first serve basis as well as sold online. Sight/Hearing Impaired seating is also located downstairs. Please contact the venue for additional information.",
+              "generalInfo": {
+                "generalRule": "For more information including door times, show times, support acts and other FAQs please visit www.713MusicHall.com Live Nation and House of Blues Entertainment are committed to providing a safe and secure environment for our guests to enjoy their visit to our venues. We encourage you to review our safety and security information below prior to arrival at the venue. - Please arrive early to the venue to allow enough time for you and your guests to move through the queue and enter the venue. Prior to entering the venue, guests will be searched (wand or walk through metal detection and/or pat-downs) to ensure that none of the restricted items enters the building. We suggest you leave valuable and unnecessary items at home. You may be asked to empty your pockets of all items so that they can be examined. - All alcohol and narcotic laws will be strictly enforced. - All bags will be searched, no large bags or backpacks will be allowed. - Restricted Items: (Keep in mind priority number 1 is to HAVE FUN! Just please do it without the items listed below) - No guns, knives, weapons, pepper spray, projectiles of any kind, or any other item that could be used to inflict harm. - Replicas of any type of weapon are NOT permitted - No drugs, drug paraphernalia or illegal substances of any kind- No outside food or drinks- No personal video cameras, Go-Pros, selfie sticks, drones, masks or laser pointers. - No professional audio, video, or audio recording equipment - (including detachable lenses, tripods, zooms or commercial use rigs) - No unsealed liquids or gels of any kind- No jewelry or clothing that could inflict harm - No large bags over (10 x 10), backpacks, Camelbacks or Bota bags - No stuffed animals or toys of any kind - This list of prohibited items is subject to change at the discretion of venue management Zero Tolerance for Drug Use or Possession. The use or possession of any illegal drugs will not be tolerated anywhere inside or outside the venue. Security personnel and narcotics officers will be working and enforcing all drug related laws. Do not bring any illegal substances to the event as violators will be prosecuted to the fullest extent of the law. If you are found impaired at the door, security will not allow you to enter the venue. Event staff reserves the right to refuse entry to anyone. Please come with a smile and be prepared to enjoy a fun filled night of music and dancing. Safety and Medical- Live Nation is dedicated to providing a safe environment. Public and private security will be present throughout the entire event. The Security Staff will be available to assist your needs including any medical requests.",
+                "childRule": "All patrons must have a ticket regardless of age. Some shows may be restricted to certain ages. Please check the venue website for updated information."
+              },
+              "upcomingEvents": {
+                "archtics": 17,
+                "ticketmaster": 32,
+                "_total": 49,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZ917APwH?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "KISS OF LIFE",
+              "type": "attraction",
+              "id": "K8vZ917qvzf",
+              "test": false,
+              "url": "https://www.livenation.com/artist/K8vZ917qvzf/kiss-of-life-events",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_SOURCE",
+                  "width": 2426,
+                  "height": 1366,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/a10/46fc0c6d-6579-4d9c-8aa4-b3fd9c633a10_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vkE1",
+                    "name": "K-Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7l1",
+                    "name": "Group"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vA76",
+                    "name": "Group"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "ticketmaster": 13,
+                "_total": 13,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917qvzf?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Dreamcatcher 2024 World Tour [Luck Inside 7 Doors] in USA",
+        "type": "event",
+        "id": "G5dIZbul1E7Rd",
+        "test": false,
+        "url": "https://concerts.livenation.com/dreamcatcher-2024-world-tour-luck-inside-houston-texas-11-20-2024/event/3A0060DACA9C4BC3",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_SOURCE",
+            "width": 2426,
+            "height": 1617,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-07-10T17:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2024-11-21T03:30:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2024-07-10T17:00:00Z",
+              "endDateTime": "2024-11-21T03:30:00Z",
+              "name": "Official Platinum"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2024-11-20",
+            "localTime": "19:30:00",
+            "dateTime": "2024-11-21T01:30:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/Chicago",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vkE1",
+              "name": "K-Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "653",
+          "name": "LIVE NATION MUSIC",
+          "description": "LIVE NATION MUSIC / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "653",
+            "name": "LIVE NATION MUSIC",
+            "description": "LIVE NATION MUSIC / NTL / USA"
+          }
+        ],
+        "info": "Doors - 6:00pm Show - 7:30pm All Ages **All support acts are subject to change without notice** To reduce staff contact with guest belongings, we have implemented the following bag policy: Bags up to 12\" x 6\" x 12\" are allowed in the venue. All bags will be searched prior to entry. Bags that are not clear will be subject to additional search.",
+        "pleaseNote": "Doors - 6:00pm Show - 7:30pm All Ages **All support acts are subject to change without notice** To reduce staff contact with guest belongings, we have implemented the following bag policy: Bags up to 12\" x 6\" x 12\" are allowed in the venue. All bags will be searched prior to entry. Bags that are not clear will be subject to additional search.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 39.95,
+            "max": 129.95
+          }
+        ],
+        "products": [
+          {
+            "name": "Fast Lane Access - Dreamcatcher - Not a Concert Ticket",
+            "id": "G5dIZbCR-Ppqr",
+            "url": "http://concerts.livenation.com/event/3A0060EBE195675E",
+            "type": "Special Entry",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7v7nJ",
+                  "name": "Upsell"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7vAFF",
+                  "name": "FastLane Access"
+                },
+                "family": false
+              }
+            ]
+          },
+          {
+            "name": "Premier Parking - Dreamcatcher - Not a Concert Ticket",
+            "id": "G5dIZbCR0zk00",
+            "url": "http://concerts.livenation.com/event/3A0060EBE4E06924",
+            "type": "Parking",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7vAva",
+                  "name": "Parking"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7vAFk",
+                  "name": "Premier"
+                },
+                "family": false
+              }
+            ]
+          },
+          {
+            "name": "Kashmere Club Access - Dreamcatcher - Not a Concert Ticket",
+            "id": "G5dIZbCRNxpxl",
+            "url": "http://concerts.livenation.com/event/3A0060EBE38968AB",
+            "type": "Club Access",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7v7nJ",
+                  "name": "Upsell"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7vAFJ",
+                  "name": "VIP Club Access"
+                },
+                "family": false
+              }
+            ]
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/3A0060DACA9C4BC3/staticImage?type=png&systemId=HOST",
+          "id": "seatmap"
+        },
+        "accessibility": {
+          "ticketLimit": 4,
+          "id": "accessibility"
+        },
+        "ticketLimit": {
+          "info": "There is an overall 8 ticket limit for this event.",
+          "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false,
+          "id": "ageRestrictions"
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true,
+            "inAppOnlyEnabled": false
+          },
+          "allInclusivePricing": {
+            "enabled": true
+          },
+          "id": "ticketing"
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/G5dIZbul1E7Rd?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ917p0N0?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZ917APwH?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "713 Music Hall",
+              "type": "venue",
+              "id": "KovZ917APwH",
+              "test": false,
+              "url": "https://www.ticketmaster.com/713-music-hall-tickets-houston/venue/476244",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/22287v.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                }
+              ],
+              "postalCode": "77201",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Houston"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "401 Franklin Street",
+                "line2": "Suite 1600"
+              },
+              "location": {
+                "longitude": "-95.36416",
+                "latitude": "29.76539"
+              },
+              "markets": [
+                {
+                  "name": "Houston and More",
+                  "id": "22"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 300
+                },
+                {
+                  "id": 408
+                }
+              ],
+              "boxOfficeInfo": {
+                "phoneNumberDetail": "General Inquiries: 832-204-6927 713MusicHallInfo@livenation.com Venue Textline: 281-612-8417 Box Office: 832-204-6920 713MusicHallInfo@livenation.com Premium Seats: 832-463-2514 houstonpremiumseating@livenation.com",
+                "openHoursDetail": "Box Office is only open 2hrs before door time on event days. *Box Office sales are subject to applicable service fees.",
+                "acceptedPaymentDetail": "Cash, VISA, Mastercard, American Express, and Discover. We do not accept personal checks. We encourage credit card payments.",
+                "willCallDetail": "Your phone is your ticket. If you have Will call, tickets can be picked up directly at the Box Office. The original purchaser must bring their credit card and a valid form of identification to pick up any tickets. Will call tickets are only available for pick-up when the Box Office is open."
+              },
+              "parkingDetail": "Limited on-site parking for the POST building including 713 Music Hall. PSS and VIP parking located at entrance on Franklin and Congress. Rideshare is encouraged. Street parking is free after 6pm; there are parking garages/lots near the venue. Including but not limited to, Theater District Garage on Rusk and Lyric Garage on Preston. Credit cards only for on-site parking.",
+              "accessibleSeatingDetail": "Fully accessible seating is located in the main hall and balcony. Space is limited and is based on a first come first serve basis as well as sold online. Sight/Hearing Impaired seating is also located downstairs. Please contact the venue for additional information.",
+              "generalInfo": {
+                "generalRule": "For more information including door times, show times, support acts and other FAQs please visit www.713MusicHall.com Live Nation and House of Blues Entertainment are committed to providing a safe and secure environment for our guests to enjoy their visit to our venues. We encourage you to review our safety and security information below prior to arrival at the venue. - Please arrive early to the venue to allow enough time for you and your guests to move through the queue and enter the venue. Prior to entering the venue, guests will be searched (wand or walk through metal detection and/or pat-downs) to ensure that none of the restricted items enters the building. We suggest you leave valuable and unnecessary items at home. You may be asked to empty your pockets of all items so that they can be examined. - All alcohol and narcotic laws will be strictly enforced. - All bags will be searched, no large bags or backpacks will be allowed. - Restricted Items: (Keep in mind priority number 1 is to HAVE FUN! Just please do it without the items listed below) - No guns, knives, weapons, pepper spray, projectiles of any kind, or any other item that could be used to inflict harm. - Replicas of any type of weapon are NOT permitted - No drugs, drug paraphernalia or illegal substances of any kind- No outside food or drinks- No personal video cameras, Go-Pros, selfie sticks, drones, masks or laser pointers. - No professional audio, video, or audio recording equipment - (including detachable lenses, tripods, zooms or commercial use rigs) - No unsealed liquids or gels of any kind- No jewelry or clothing that could inflict harm - No large bags over (10 x 10), backpacks, Camelbacks or Bota bags - No stuffed animals or toys of any kind - This list of prohibited items is subject to change at the discretion of venue management Zero Tolerance for Drug Use or Possession. The use or possession of any illegal drugs will not be tolerated anywhere inside or outside the venue. Security personnel and narcotics officers will be working and enforcing all drug related laws. Do not bring any illegal substances to the event as violators will be prosecuted to the fullest extent of the law. If you are found impaired at the door, security will not allow you to enter the venue. Event staff reserves the right to refuse entry to anyone. Please come with a smile and be prepared to enjoy a fun filled night of music and dancing. Safety and Medical- Live Nation is dedicated to providing a safe environment. Public and private security will be present throughout the entire event. The Security Staff will be available to assist your needs including any medical requests.",
+                "childRule": "All patrons must have a ticket regardless of age. Some shows may be restricted to certain ages. Please check the venue website for updated information."
+              },
+              "upcomingEvents": {
+                "archtics": 17,
+                "ticketmaster": 32,
+                "_total": 49,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZ917APwH?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "Dreamcatcher",
+              "type": "attraction",
+              "id": "K8vZ917p0N0",
+              "test": false,
+              "url": "https://www.livenation.com/artist/K8vZ917p0N0/dreamcatcher-events",
+              "locale": "en-us",
+              "externalLinks": {
+                "youtube": [
+                  {
+                    "url": "https://www.youtube.com/channel/UCijULR2sXLutCRBtW3_WEfA"
+                  }
+                ],
+                "twitter": [
+                  {
+                    "url": "https://twitter.com/hf_dreamcatcher"
+                  }
+                ],
+                "itunes": [
+                  {
+                    "url": "https://music.apple.com/us/artist/dreamcatcher/1194912387"
+                  }
+                ],
+                "facebook": [
+                  {
+                    "url": "https://www.facebook.com/happyfacedreamcatcher/"
+                  }
+                ],
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ?autoplay=true"
+                  }
+                ],
+                "instagram": [
+                  {
+                    "url": "https://www.instagram.com/hf_dreamcatcher/"
+                  }
+                ]
+              },
+              "images": [
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_SOURCE",
+                  "width": 2426,
+                  "height": 1617,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/935/ad6a7297-7e5b-4388-a81d-d9593be9b935_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vkE1",
+                    "name": "K-Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7lt",
+                    "name": "Event Style"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vA6J",
+                    "name": "Concert"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "tmr": 1,
+                "ticketmaster": 9,
+                "ticketweb": 1,
+                "_total": 11,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917p0N0?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "XG",
+        "type": "event",
+        "id": "Z7r9jZ1A7G4GJ",
+        "test": false,
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7G4GJ",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_SOURCE",
+            "width": 2426,
+            "height": 1365,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-06-14T15:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2024-10-13T01:00:00Z"
+          }
+        },
+        "dates": {
+          "start": {
+            "localDate": "2024-10-12",
+            "localTime": "20:00:00",
+            "dateTime": "2024-10-13T01:00:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vkE1",
+              "name": "K-Pop"
+            },
+            "family": false
+          }
+        ],
+        "outlets": [
+          {
+            "url": "https://texastrustcutheatre.com/",
+            "type": "venueBoxOffice"
+          },
+          {
+            "url": "https://www.ticketmaster.com/xg-grand-prairie-texas-10-12-2024/event/Zu0FM1R0e5FoAof",
+            "type": "tmMarketPlace"
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://content.resale.ticketmaster.com/graphics/TMResale/2/VenueMaps/2300-0-0-0-verizonwireless_grandprairie.png",
+          "id": "seatmap"
+        },
+        "ticketing": {
+          "allInclusivePricing": {
+            "enabled": false
+          },
+          "id": "ticketing"
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/Z7r9jZ1A7G4GJ?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ917jwk7?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/ZFr9jZd7vv?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Texas Trust CU Theatre",
+              "type": "venue",
+              "id": "ZFr9jZd7vv",
+              "test": false,
+              "locale": "en-us",
+              "postalCode": "75050",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Grand Prairie"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "1001 Performance Place",
+                "line2": "Grand Prairie, TX"
+              },
+              "location": {
+                "longitude": "-97.005203",
+                "latitude": "32.773998"
+              },
+              "dmas": [
+                {
+                  "id": 261
+                }
+              ],
+              "upcomingEvents": {
+                "tmr": 51,
+                "ticketmaster": 1,
+                "_total": 52,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/ZFr9jZd7vv?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "XG",
+              "type": "attraction",
+              "id": "K8vZ917jwk7",
+              "test": false,
+              "url": "https://www.ticketmaster.com/xg-tickets/artist/3160790",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_SOURCE",
+                  "width": 2426,
+                  "height": 1365,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vkE1",
+                    "name": "K-Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7l1",
+                    "name": "Group"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vA76",
+                    "name": "Group"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "ticketnet": 1,
+                "mfx-be": 1,
+                "mfx-nl": 2,
+                "tmr": 2,
+                "ticketmaster": 5,
+                "_total": 11,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917jwk7?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "GEMINI SEASON - Miles Away",
+        "type": "event",
+        "id": "vvG1YZb8VGO4-o",
+        "test": false,
+        "url": "https://concerts.livenation.com/gemini-season-miles-away-dallas-texas-11-17-2024/event/0C00610D0C815851",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_SOURCE",
+            "width": 3026,
+            "height": 3639,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-08-16T15:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2024-11-18T03:00:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2024-08-15T15:00:00Z",
+              "endDateTime": "2024-08-16T03:00:00Z",
+              "name": "Artist Presale"
+            },
+            {
+              "startDateTime": "2024-08-15T17:00:00Z",
+              "endDateTime": "2024-08-16T03:00:00Z",
+              "name": "Live Nation Presale"
+            },
+            {
+              "startDateTime": "2024-08-15T17:00:00Z",
+              "endDateTime": "2024-08-16T03:00:00Z",
+              "name": "Ticketmaster Presale"
+            },
+            {
+              "startDateTime": "2024-08-15T15:00:00Z",
+              "endDateTime": "2024-08-16T03:00:00Z",
+              "name": "VIP Package Presale"
+            },
+            {
+              "startDateTime": "2024-08-16T15:00:00Z",
+              "endDateTime": "2024-11-11T04:00:00Z",
+              "name": "VIP Package Onsale"
+            },
+            {
+              "startDateTime": "2024-08-15T15:00:00Z",
+              "endDateTime": "2024-08-16T03:00:00Z",
+              "name": "Official Platinum Presale"
+            },
+            {
+              "startDateTime": "2024-08-16T15:00:00Z",
+              "endDateTime": "2024-11-18T03:00:00Z",
+              "name": "Official Platinum Onsale"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2024-11-17",
+            "localTime": "19:00:00",
+            "dateTime": "2024-11-18T01:00:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/Chicago",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vkE1",
+              "name": "K-Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "653",
+          "name": "LIVE NATION MUSIC",
+          "description": "LIVE NATION MUSIC / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "653",
+            "name": "LIVE NATION MUSIC",
+            "description": "LIVE NATION MUSIC / NTL / USA"
+          }
+        ],
+        "info": "Doors open at 7PM. Show starts at 8PM. This is an All Ages Event. Scheduled Support: TBA All sales are subject to increase the day of the show. Support acts are subject to change without notice. The Box Office is open on show days only 2 hours prior to doors. Hours vary per event.",
+        "pleaseNote": "Doors open at 7PM. Show starts at 8PM. This is an All Ages Event. Scheduled Support: TBA All sales are subject to increase the day of the show. Support acts are subject to change without notice. The Box Office is open on show days only 2 hours prior to doors. Hours vary per event.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 45,
+            "max": 79.5
+          }
+        ],
+        "products": [
+          {
+            "name": "Pre-Show Pass - GEMINI - Not a Concert Ticket",
+            "id": "vvG1YZb8XGxvmb",
+            "url": "http://concerts.livenation.com/event/0C00610F8C881B98",
+            "type": "Special Entry",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7v7nJ",
+                  "name": "Upsell"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7v7lv",
+                  "name": "Special Entry"
+                },
+                "family": false
+              }
+            ]
+          },
+          {
+            "name": "Valet Parking - GEMINI - Not a Concert Ticket",
+            "id": "vvG1YZb8XuOvs3",
+            "url": "http://concerts.livenation.com/event/0C00610F8D801C52",
+            "type": "Parking",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7vAva",
+                  "name": "Parking"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7vAFe",
+                  "name": "Regular"
+                },
+                "family": false
+              }
+            ]
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://maps.ticketmaster.com/maps/geometry/3/event/0C00610D0C815851/staticImage?type=png&systemId=HOST",
+          "id": "seatmap"
+        },
+        "accessibility": {
+          "ticketLimit": 2,
+          "id": "accessibility"
+        },
+        "ticketLimit": {
+          "info": "There is an overall 6 ticket limit for this event.",
+          "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false,
+          "id": "ageRestrictions"
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true,
+            "inAppOnlyEnabled": false
+          },
+          "allInclusivePricing": {
+            "enabled": true
+          },
+          "id": "ticketing"
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/vvG1YZb8VGO4-o?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ917hw6V?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZ917AxY0?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "The Echo Lounge & Music Hall",
+              "type": "venue",
+              "id": "KovZ917AxY0",
+              "test": false,
+              "url": "https://www.ticketmaster.com/the-echo-lounge-music-hall-tickets-dallas/venue/99342",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/22264v.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                }
+              ],
+              "postalCode": "75207",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Dallas"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "1323 N. Stemmons Fwy. "
+              },
+              "location": {
+                "longitude": "-96.814464",
+                "latitude": "32.790548"
+              },
+              "markets": [
+                {
+                  "name": "Dallas - Fort Worth and More",
+                  "id": "5"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 212
+                },
+                {
+                  "id": 218
+                },
+                {
+                  "id": 261
+                },
+                {
+                  "id": 326
+                },
+                {
+                  "id": 348
+                },
+                {
+                  "id": 386
+                },
+                {
+                  "id": 405
+                },
+                {
+                  "id": 415
+                }
+              ],
+              "upcomingEvents": {
+                "ticketmaster": 33,
+                "_total": 33,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZ917AxY0?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "GEMINI",
+              "type": "attraction",
+              "id": "K8vZ917hw6V",
+              "test": false,
+              "url": "https://www.livenation.com/artist/K8vZ917hw6V/gemini-events",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_SOURCE",
+                  "width": 3026,
+                  "height": 3639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/dd1/fe8a5063-c328-48c5-9be8-e4b0196cadd1_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vkE1",
+                    "name": "K-Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7la",
+                    "name": "Individual"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vAd7",
+                    "name": "Musician"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "ticketmaster": 3,
+                "_total": 3,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917hw6V?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "XG",
+        "type": "event",
+        "id": "Z7r9jZ1A7G4qK",
+        "test": false,
+        "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7G4qK",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_SOURCE",
+            "width": 2426,
+            "height": 1365,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-06-14T15:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2024-10-15T01:00:00Z"
+          }
+        },
+        "dates": {
+          "start": {
+            "localDate": "2024-10-14",
+            "localTime": "20:00:00",
+            "dateTime": "2024-10-15T01:00:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vkE1",
+              "name": "K-Pop"
+            },
+            "family": false
+          }
+        ],
+        "outlets": [
+          {
+            "url": "http://smartfinancialcentre.net/",
+            "type": "venueBoxOffice"
+          },
+          {
+            "url": "https://www.ticketmaster.com/xg-sugar-land-texas-10-14-2024/event/Zu0FM1R0e5FoAU4",
+            "type": "tmMarketPlace"
+          }
+        ],
+        "ticketing": {
+          "allInclusivePricing": {
+            "enabled": false
+          },
+          "id": "ticketing"
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/Z7r9jZ1A7G4qK?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ917jwk7?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/Z7r9jZaeTG?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "Smart Financial Centre at Sugar Land",
+              "type": "venue",
+              "id": "Z7r9jZaeTG",
+              "test": false,
+              "locale": "en-us",
+              "postalCode": "77479",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Sugar Land"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "18111 Lexington Blvd"
+              },
+              "location": {
+                "longitude": "-95.621399",
+                "latitude": "29.5665"
+              },
+              "dmas": [
+                {
+                  "id": 300
+                }
+              ],
+              "upcomingEvents": {
+                "tmr": 43,
+                "ticketmaster": 11,
+                "_total": 54,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/Z7r9jZaeTG?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "XG",
+              "type": "attraction",
+              "id": "K8vZ917jwk7",
+              "test": false,
+              "url": "https://www.ticketmaster.com/xg-tickets/artist/3160790",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/e7d/3ba48f65-e8f1-43a4-ab79-485e5c4fbe7d_SOURCE",
+                  "width": 2426,
+                  "height": 1365,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vkE1",
+                    "name": "K-Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7l1",
+                    "name": "Group"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vA76",
+                    "name": "Group"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "ticketnet": 1,
+                "mfx-be": 1,
+                "mfx-nl": 2,
+                "tmr": 2,
+                "ticketmaster": 5,
+                "_total": 11,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917jwk7?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "8TURN",
+        "type": "event",
+        "id": "G5dIZb3hK34pB",
+        "test": false,
+        "url": "https://concerts.livenation.com/8turn-houston-texas-04-25-2025/event/3A006126D34955BA",
+        "locale": "en-us",
+        "images": [
+          {
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_SOURCE",
+            "width": 2426,
+            "height": 1765,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-09-12T16:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2025-04-26T01:00:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2024-09-12T16:00:00Z",
+              "endDateTime": "2025-04-26T01:00:00Z",
+              "name": "Official Platinum"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2025-04-25",
+            "localTime": "18:00:00",
+            "dateTime": "2025-04-25T23:00:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/Chicago",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vkE1",
+              "name": "K-Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "675",
+          "name": "HOUSE OF BLUES CONCERTS (HOB)",
+          "description": "HOUSE OF BLUES CONCERTS (HOB) / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "675",
+            "name": "HOUSE OF BLUES CONCERTS (HOB)",
+            "description": "HOUSE OF BLUES CONCERTS (HOB) / NTL / USA"
+          }
+        ],
+        "info": "This is an all ages seated floor event. Doors open at 6PM. VIP Tables seat 4 humans and are first come first serve if you purchase in that section. Please arrive early so that our hosts can try to seat your party together.",
+        "pleaseNote": "This is an all ages seated floor event. Doors open at 6PM. VIP Tables seat 4 humans and are first come first serve if you purchase in that section. Please arrive early so that our hosts can try to seat your party together.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 50,
+            "max": 75
+          }
+        ],
+        "products": [
+          {
+            "name": "PARKWHIZ HOUSE OF BLUES HOUSTON",
+            "id": "G5dIZb3J_Tsnu",
+            "url": "http://concerts.livenation.com/event/3A00612999FF1A8D",
+            "type": "Upsell",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7vAva",
+                  "name": "Parking"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7vAFe",
+                  "name": "Regular"
+                },
+                "family": false
+              }
+            ]
+          },
+          {
+            "name": "Fast Lane Access - 8TURN - Not a Concert Ticket",
+            "id": "G5dIZb3rMIK2o",
+            "url": "http://concerts.livenation.com/event/3A006127B7A133D1",
+            "type": "Special Entry",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7v7nJ",
+                  "name": "Upsell"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7vAFF",
+                  "name": "FastLane Access"
+                },
+                "family": false
+              }
+            ]
+          },
+          {
+            "name": "Dinner Package - 8TURN - Not A Concert Ticket",
+            "id": "G5dIZb3rY9eTt",
+            "url": "http://concerts.livenation.com/event/3A006127B05C2FE9",
+            "type": "Upsell",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7v7nJ",
+                  "name": "Upsell"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7v7lA",
+                  "name": "Meal Package"
+                },
+                "family": false
+              }
+            ]
+          },
+          {
+            "name": "HOB Foundation Room VIP Access - 8TURN - Not a Concert Ticket**",
+            "id": "G5dIZb3rlH3g0",
+            "url": "http://concerts.livenation.com/event/3A006127ABF12D64",
+            "type": "Club Access",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7v7nJ",
+                  "name": "Upsell"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7v7lv",
+                  "name": "Special Entry"
+                },
+                "family": false
+              }
+            ]
+          },
+          {
+            "name": "Party Pass - 8TURN - Not a Concert Ticket",
+            "id": "G5dIZb3rwNK7u",
+            "url": "http://concerts.livenation.com/event/3A006127B28D310D",
+            "type": "Upsell",
+            "classifications": [
+              {
+                "primary": true,
+                "segment": {
+                  "id": "KZFzniwnSyZfZ7v7n1",
+                  "name": "Miscellaneous"
+                },
+                "genre": {
+                  "id": "KnvZfZ7v7ll",
+                  "name": "Undefined"
+                },
+                "subGenre": {
+                  "id": "KZazBEonSMnZfZ7vAv1",
+                  "name": "Undefined"
+                },
+                "type": {
+                  "id": "KZAyXgnZfZ7v7nJ",
+                  "name": "Upsell"
+                },
+                "subType": {
+                  "id": "KZFzBErXgnZfZ7v7lv",
+                  "name": "Special Entry"
+                },
+                "family": false
+              }
+            ]
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://mapsapi.tmol.io/maps/geometry/3/event/3A006126D34955BA/staticImage?type=png&systemId=HOST",
+          "id": "seatmap"
+        },
+        "accessibility": {
+          "info": "ADA Wheelchair and Companion seating is located in the Balcony and is configured in 1+3 and 3+1 arrangements.  For General Admission sections please purchase a GA seat and the venue will accomodate you upon your arrival.",
+          "ticketLimit": 2,
+          "id": "accessibility"
+        },
+        "ticketLimit": {
+          "info": "There is an overall 8 ticket limit for this event.",
+          "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false,
+          "id": "ageRestrictions"
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true,
+            "inAppOnlyEnabled": true
+          },
+          "allInclusivePricing": {
+            "enabled": true
+          },
+          "id": "ticketing"
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/G5dIZb3hK34pB?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ917jJ-V?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZpZAE6k1A?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "House of Blues Houston",
+              "type": "venue",
+              "id": "KovZpZAE6k1A",
+              "test": false,
+              "url": "https://www.ticketmaster.com/house-of-blues-houston-tickets-houston/venue/475902",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/21933v.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                }
+              ],
+              "postalCode": "77002",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Houston"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "1204 Caroline Street"
+              },
+              "location": {
+                "longitude": "-95.36381697",
+                "latitude": "29.75377797"
+              },
+              "markets": [
+                {
+                  "name": "Houston and More",
+                  "id": "22"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 300
+                },
+                {
+                  "id": 408
+                }
+              ],
+              "social": {
+                "twitter": {
+                  "handle": "@HOBHouston"
+                }
+              },
+              "boxOfficeInfo": {
+                "phoneNumberDetail": "832-667-7733 or 832-667-7736 INFO LINE: 1-888-40-BLUE (2583)",
+                "openHoursDetail": "Tickets may be purchased in the Company Store 7 days a week from 11AM - 9PM. The Box Office opens 1 hour before door time on show days.",
+                "acceptedPaymentDetail": "Cash, MasterCard, Visa, Discover, American Express, House of Blues Gift Certificates. Credit card purchases require a valid matching photo ID.",
+                "willCallDetail": "Will Call is available at least 1 hour prior to door time. Customer must present a valid photo ID and actual credit card used for purchase. The name on the ID must match the name on the credit card used to purchase tickets."
+              },
+              "parkingDetail": "Greenstreet Parking Garage on Polk/Main",
+              "accessibleSeatingDetail": "Patrons that require Accessible seating may purchase at LiveNation .com or ticketmaster.com",
+              "generalInfo": {
+                "generalRule": "No dress code. All sales are final. No Refunds or Exchanges. Camera Policy: Personal cameras are allowed in the venue. Flash photography, video and removable lens cameras are not permitted without venue approval. The following items are NOT permitted: Bottles Cans Outside food and beverage (including alcohol) Weapons",
+                "childRule": "All ages are welcome - unless otherwise stated on the ticket. Customers of all ages need a ticket to enter. No age discounts."
+              },
+              "upcomingEvents": {
+                "archtics": 5,
+                "ticketmaster": 77,
+                "ticketweb": 2,
+                "_total": 84,
+                "_filtered": 0
+              },
+              "ada": {
+                "adaPhones": "832-667-7733 or 832-667-7736\n",
+                "adaCustomCopy": "To better accommodate your needs, House of Blues Houston has requested that all special seating accommodations be solicited only through their representatives. Please contact a House of Blues Houston representative for further help with your ticket purchase.*   Advance ticket purchase may be required.\n\n* Box office information is subject to change.",
+                "adaHours": "Mon-Sun 10:00am to 4:00pm\n\n**Closing hours may vary on event nights."
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZpZAE6k1A?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "8TURN",
+              "type": "attraction",
+              "id": "K8vZ917jJ-V",
+              "test": false,
+              "url": "https://www.livenation.com/artist/K8vZ917jJ-V/8turn-events",
+              "locale": "en-us",
+              "externalLinks": {
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+                  }
+                ]
+              },
+              "images": [
+                {
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_SOURCE",
+                  "width": 2426,
+                  "height": 1765,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vkE1",
+                    "name": "K-Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7l1",
+                    "name": "Group"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vA71",
+                    "name": "Band"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "ticketmaster": 10,
+                "_total": 10,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917jJ-V?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "8TURN",
+        "type": "event",
+        "id": "vvG1YZb3JMlxEu",
+        "test": false,
+        "url": "https://concerts.livenation.com/8turn-dallas-texas-04-23-2025/event/0C006129B7AE29CD",
+        "locale": "en-us",
+        "images": [
+          {
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_SOURCE",
+            "width": 2426,
+            "height": 1765,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-09-12T16:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2025-04-24T01:00:00Z"
+          },
+          "presales": [
+            {
+              "startDateTime": "2024-09-12T16:00:00Z",
+              "endDateTime": "2025-04-24T01:00:00Z",
+              "name": "Official Platinum Onsale"
+            }
+          ]
+        },
+        "dates": {
+          "start": {
+            "localDate": "2025-04-23",
+            "localTime": "18:00:00",
+            "dateTime": "2025-04-23T23:00:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/Chicago",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vkE1",
+              "name": "K-Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "promoter": {
+          "id": "653",
+          "name": "LIVE NATION MUSIC",
+          "description": "LIVE NATION MUSIC / NTL / USA"
+        },
+        "promoters": [
+          {
+            "id": "653",
+            "name": "LIVE NATION MUSIC",
+            "description": "LIVE NATION MUSIC / NTL / USA"
+          }
+        ],
+        "info": "Doors open at 6PM. Show starts at 7:30PM. This is an All Ages Event. Scheduled Support: TBA All sales are subject to increase the day of the show. Support acts are subject to change without notice. The Box Office is open on show days only 2 hours prior to doors. Hours vary per event.",
+        "pleaseNote": "Doors open at 6PM. Show starts at 7:30PM. This is an All Ages Event. Scheduled Support: TBA All sales are subject to increase the day of the show. Support acts are subject to change without notice. The Box Office is open on show days only 2 hours prior to doors. Hours vary per event.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 45,
+            "max": 99.5
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://mapsapi.tmol.io/maps/geometry/3/event/0C006129B7AE29CD/staticImage?type=png&systemId=HOST",
+          "id": "seatmap"
+        },
+        "accessibility": {
+          "ticketLimit": 2,
+          "id": "accessibility"
+        },
+        "ticketLimit": {
+          "info": "There is an overall 8 ticket limit for this event.",
+          "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false,
+          "id": "ageRestrictions"
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true,
+            "inAppOnlyEnabled": false
+          },
+          "allInclusivePricing": {
+            "enabled": true
+          },
+          "id": "ticketing"
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/vvG1YZb3JMlxEu?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ917jJ-V?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZ917AxY0?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "The Echo Lounge & Music Hall",
+              "type": "venue",
+              "id": "KovZ917AxY0",
+              "test": false,
+              "url": "https://www.ticketmaster.com/the-echo-lounge-music-hall-tickets-dallas/venue/99342",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dbimages/22264v.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                }
+              ],
+              "postalCode": "75207",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Dallas"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "1323 N. Stemmons Fwy. "
+              },
+              "location": {
+                "longitude": "-96.814464",
+                "latitude": "32.790548"
+              },
+              "markets": [
+                {
+                  "name": "Dallas - Fort Worth and More",
+                  "id": "5"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 212
+                },
+                {
+                  "id": 218
+                },
+                {
+                  "id": 261
+                },
+                {
+                  "id": 326
+                },
+                {
+                  "id": 348
+                },
+                {
+                  "id": 386
+                },
+                {
+                  "id": 405
+                },
+                {
+                  "id": 415
+                }
+              ],
+              "upcomingEvents": {
+                "ticketmaster": 33,
+                "_total": 33,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZ917AxY0?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "8TURN",
+              "type": "attraction",
+              "id": "K8vZ917jJ-V",
+              "test": false,
+              "url": "https://www.livenation.com/artist/K8vZ917jJ-V/8turn-events",
+              "locale": "en-us",
+              "externalLinks": {
+                "spotify": [
+                  {
+                    "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+                  }
+                ]
+              },
+              "images": [
+                {
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_SOURCE",
+                  "width": 2426,
+                  "height": 1765,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/b94/66ce7d7f-6ebb-4160-82a5-d111dc629b94_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vkE1",
+                    "name": "K-Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7l1",
+                    "name": "Group"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vA71",
+                    "name": "Band"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "ticketmaster": 10,
+                "_total": 10,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917jJ-V?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "KPop Club Night",
+        "type": "event",
+        "id": "G5dIZbfNiC4Kn",
+        "test": false,
+        "url": "https://www.ticketmaster.com/kpop-club-night-houston-texas-02-07-2025/event/3A006148EC3954EA",
+        "locale": "en-us",
+        "images": [
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+            "width": 2048,
+            "height": 1152,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_SOURCE",
+            "width": 2048,
+            "height": 1536,
+            "fallback": false
+          },
+          {
+            "ratio": "4_3",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_CUSTOM.jpg",
+            "width": 305,
+            "height": 225,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_SOURCE",
+            "width": 2426,
+            "height": 1365,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_TABLET_LANDSCAPE_3_2.jpg",
+            "width": 1024,
+            "height": 683,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_RECOMENDATION_16_9.jpg",
+            "width": 100,
+            "height": 56,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_TABLET_LANDSCAPE_16_9.jpg",
+            "width": 1024,
+            "height": 576,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_RETINA_PORTRAIT_3_2.jpg",
+            "width": 640,
+            "height": 427,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_EVENT_DETAIL_PAGE_16_9.jpg",
+            "width": 205,
+            "height": 115,
+            "fallback": false
+          },
+          {
+            "ratio": "3_2",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_ARTIST_PAGE_3_2.jpg",
+            "width": 305,
+            "height": 203,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_RETINA_LANDSCAPE_16_9.jpg",
+            "width": 1136,
+            "height": 639,
+            "fallback": false
+          },
+          {
+            "ratio": "16_9",
+            "url": "https://s1.ticketm.net/dam/e/d55/540dfd38-a195-45f5-bd0e-489ea48a7d55_RETINA_PORTRAIT_16_9.jpg",
+            "width": 640,
+            "height": 360,
+            "fallback": false
+          }
+        ],
+        "sales": {
+          "public": {
+            "startDateTime": "2024-10-09T15:00:00Z",
+            "startTBD": false,
+            "startTBA": false,
+            "endDateTime": "2025-02-08T06:00:00Z"
+          }
+        },
+        "dates": {
+          "start": {
+            "localDate": "2025-02-07",
+            "localTime": "20:00:00",
+            "dateTime": "2025-02-08T02:00:00Z",
+            "dateTBD": false,
+            "dateTBA": false,
+            "timeTBA": false,
+            "noSpecificTime": false
+          },
+          "timezone": "America/Chicago",
+          "status": {
+            "code": "onsale"
+          },
+          "spanMultipleDays": false
+        },
+        "classifications": [
+          {
+            "primary": true,
+            "segment": {
+              "id": "KZFzniwnSyZfZ7v7nJ",
+              "name": "Music"
+            },
+            "genre": {
+              "id": "KnvZfZ7vAev",
+              "name": "Pop"
+            },
+            "subGenre": {
+              "id": "KZazBEonSMnZfZ7vkE1",
+              "name": "K-Pop"
+            },
+            "type": {
+              "id": "KZAyXgnZfZ7v7nI",
+              "name": "Undefined"
+            },
+            "subType": {
+              "id": "KZFzBErXgnZfZ7v7lJ",
+              "name": "Undefined"
+            },
+            "family": false
+          }
+        ],
+        "info": "Doors: 8pm This show is ALL AGES All General Admission Tickets are Standing Room only IMPORTANT: WHITE OAK MUSIC HALL IS A CASHLESS VENUE. Please be sure to bring a debit or credit card.",
+        "pleaseNote": "Doors: 8pm This show is ALL AGES All General Admission Tickets are Standing Room only IMPORTANT: WHITE OAK MUSIC HALL IS A CASHLESS VENUE. Please be sure to bring a debit or credit card.",
+        "priceRanges": [
+          {
+            "type": "standard",
+            "currency": "USD",
+            "min": 17,
+            "max": 17
+          }
+        ],
+        "seatmap": {
+          "staticUrl": "https://mapsapi.tmol.io/maps/geometry/3/event/3A006148EC3954EA/staticImage?type=png&systemId=HOST",
+          "id": "seatmap"
+        },
+        "accessibility": {
+          "id": "accessibility"
+        },
+        "ticketLimit": {
+          "info": "There is an overall 6 ticket limit for this event.",
+          "id": "ticketLimit"
+        },
+        "ageRestrictions": {
+          "legalAgeEnforced": false,
+          "id": "ageRestrictions"
+        },
+        "ticketing": {
+          "safeTix": {
+            "enabled": true,
+            "inAppOnlyEnabled": false
+          },
+          "allInclusivePricing": {
+            "enabled": false
+          },
+          "id": "ticketing"
+        },
+        "_links": {
+          "self": {
+            "href": "/discovery/v2/events/G5dIZbfNiC4Kn?locale=en-us"
+          },
+          "attractions": [
+            {
+              "href": "/discovery/v2/attractions/K8vZ917QRz7?locale=en-us"
+            }
+          ],
+          "venues": [
+            {
+              "href": "/discovery/v2/venues/KovZ917AiGZ?locale=en-us"
+            }
+          ]
+        },
+        "_embedded": {
+          "venues": [
+            {
+              "name": "White Oak Music Hall - Downstairs",
+              "type": "venue",
+              "id": "KovZ917AiGZ",
+              "test": false,
+              "url": "https://www.ticketmaster.com/white-oak-music-hall-downstairs-tickets-houston/venue/476314",
+              "locale": "en-us",
+              "postalCode": "77009",
+              "timezone": "America/Chicago",
+              "city": {
+                "name": "Houston"
+              },
+              "state": {
+                "name": "Texas",
+                "stateCode": "TX"
+              },
+              "country": {
+                "name": "United States Of America",
+                "countryCode": "US"
+              },
+              "address": {
+                "line1": "2915 N Main St"
+              },
+              "location": {
+                "longitude": "-95.36562",
+                "latitude": "29.78627"
+              },
+              "markets": [
+                {
+                  "name": "Houston and More",
+                  "id": "22"
+                }
+              ],
+              "dmas": [
+                {
+                  "id": 300
+                },
+                {
+                  "id": 408
+                }
+              ],
+              "upcomingEvents": {
+                "ticketmaster": 46,
+                "_total": 46,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/venues/KovZ917AiGZ?locale=en-us"
+                }
+              }
+            }
+          ],
+          "attractions": [
+            {
+              "name": "KPop Club Night",
+              "type": "attraction",
+              "id": "K8vZ917QRz7",
+              "test": false,
+              "url": "https://www.ticketmaster.com/kpop-club-night-tickets/artist/2929775",
+              "locale": "en-us",
+              "images": [
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_TABLET_LANDSCAPE_3_2.jpg",
+                  "width": 1024,
+                  "height": 683,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_RETINA_PORTRAIT_16_9.jpg",
+                  "width": 640,
+                  "height": 360,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_RECOMENDATION_16_9.jpg",
+                  "width": 100,
+                  "height": 56,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_EVENT_DETAIL_PAGE_16_9.jpg",
+                  "width": 205,
+                  "height": 115,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_SOURCE",
+                  "width": 2426,
+                  "height": 1365,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_ARTIST_PAGE_3_2.jpg",
+                  "width": 305,
+                  "height": 203,
+                  "fallback": false
+                },
+                {
+                  "ratio": "3_2",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_RETINA_PORTRAIT_3_2.jpg",
+                  "width": 640,
+                  "height": 427,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+                  "width": 2048,
+                  "height": 1152,
+                  "fallback": false
+                },
+                {
+                  "ratio": "4_3",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_CUSTOM.jpg",
+                  "width": 305,
+                  "height": 225,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_RETINA_LANDSCAPE_16_9.jpg",
+                  "width": 1136,
+                  "height": 639,
+                  "fallback": false
+                },
+                {
+                  "ratio": "16_9",
+                  "url": "https://s1.ticketm.net/dam/a/ff2/8913e365-6acd-4cac-a2b4-c5600f647ff2_TABLET_LANDSCAPE_16_9.jpg",
+                  "width": 1024,
+                  "height": 576,
+                  "fallback": false
+                }
+              ],
+              "classifications": [
+                {
+                  "primary": true,
+                  "segment": {
+                    "id": "KZFzniwnSyZfZ7v7nJ",
+                    "name": "Music"
+                  },
+                  "genre": {
+                    "id": "KnvZfZ7vAev",
+                    "name": "Pop"
+                  },
+                  "subGenre": {
+                    "id": "KZazBEonSMnZfZ7vkE1",
+                    "name": "K-Pop"
+                  },
+                  "type": {
+                    "id": "KZAyXgnZfZ7v7lt",
+                    "name": "Event Style"
+                  },
+                  "subType": {
+                    "id": "KZFzBErXgnZfZ7vAkl",
+                    "name": "Party/Gala"
+                  },
+                  "family": false
+                }
+              ],
+              "upcomingEvents": {
+                "ticketmaster": 7,
+                "_total": 7,
+                "_filtered": 0
+              },
+              "_links": {
+                "self": {
+                  "href": "/discovery/v2/attractions/K8vZ917QRz7?locale=en-us"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "_links": {
+    "self": {
+      "href": "/discovery/v2/events.json?size=10&stateCode=TX&classificationId=KZazBEonSMnZfZ7vkE1"
+    }
+  },
+  "page": {
+    "size": 10,
+    "totalElements": 8,
+    "totalPages": 1,
+    "number": 0
+  }
+}
