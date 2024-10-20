@@ -15,9 +15,7 @@ public class TicketMasterAPI {
 
     /**
      * TODO:
-     * - test error response/parsing
      * - handle rate limit errors
-     * - read API key from env
      */
 
     private static final String BASE_URL = "https://app.ticketmaster.com";

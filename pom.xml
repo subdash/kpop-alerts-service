@@ -54,6 +54,12 @@
             <artifactId>aws-java-sdk-secretsmanager</artifactId>
             <version>1.12.776</version>
         </dependency>
+        <dependency>
+            <groupId>com.amazonaws</groupId>
+            <artifactId>aws-java-sdk-sns</artifactId>
+            <version>1.12.776</version>
+        </dependency>
+
     </dependencies>
     <!-- To run a build: mvn clean compile assembly:single -->
     <build>

@@ -106,6 +106,7 @@ resource "aws_lambda_function" "event_search" {
   environment {
     variables = {
       API_KEY_ARN = aws_secretsmanager_secret.ticketmaster_api_key.arn
+      SNS_TOPIC_ARN = aws_sns_topic.user_updates.arn
     }
   }
   vpc_config {
