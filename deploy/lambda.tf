@@ -1,7 +1,14 @@
-locals {
-  s3_bucket = "FILL_ME_IN"
-  s3_key = "FILL_ME_IN"
-  s3_object_version = "FILL_ME_IN"
+resource aws_s3_bucket build_artifacts {
+#   bucket = "kpop-alerts-build-artifacts-private"
+  // Only for sandbox development
+  bucket = "TMP-DELETE-AT-WILL-DASH-s3-bucket"
+}
+
+resource aws_s3_object kpop_alerts_jar {
+  bucket = aws_s3_bucket.build_artifacts.id
+  key    = "event-search-lambda.jar"
+  // Only for sandbox development
+  source = "../target/KpopAlerts-1.0-SNAPSHOT-jar-with-dependencies.jar"
 }
 
 data aws_iam_policy_document event_search_assume_role {
@@ -17,6 +24,11 @@ data aws_iam_policy_document event_search_assume_role {
 
 resource aws_secretsmanager_secret ticketmaster_api_key {
   name = "ticketmaster_api_key"
+}
+
+resource aws_secretsmanager_secret_version ticketmaster_api_key_v1 {
+  // Test key from Ticketmaster docs
+  secret_id = "ArczcVznMlEZoupJgqHpkWuo1ASxGEGA"
 }
 
 resource aws_iam_role event_search_execution_role {
@@ -46,11 +58,6 @@ resource aws_iam_role event_search_execution_role {
   }
 }
 
-data aws_s3_object event_search_lambda_jar {
-  bucket = local.s3_bucket
-  key    = "event_search_lambda.jar"
-}
-
 resource aws_security_group event_search_sg {
   name = "event_search_sg"
   vpc_id = aws_vpc.main.id
@@ -65,9 +72,9 @@ resource aws_vpc_security_group_egress_rule allow_all_egress_ipv4 {
 
 resource aws_lambda_function event_search {
   function_name                  = "ticketmaster-event-search"
-  s3_bucket                      = local.s3_bucket
-  s3_key                         = data.aws_s3_object.event_search_lambda_jar.key
-  s3_object_version              = data.aws_s3_object.event_search_lambda_jar.version_id
+  s3_bucket                      = aws_s3_bucket.build_artifacts.id
+  s3_key                         = aws_s3_object.kpop_alerts_jar.key
+  s3_object_version              = aws_s3_object.kpop_alerts_jar.version_id
   #   layers                         = var.layers
   handler                        = "org.example.lambda.EventSearchHandler"
   role                           = aws_iam_role.event_search_execution_role.arn
