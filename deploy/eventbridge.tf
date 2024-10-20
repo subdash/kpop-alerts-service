@@ -1,6 +1,9 @@
 resource "aws_cloudwatch_event_rule" "event_search_schedule" {
   name                = "event-search-schedule"
   schedule_expression = "cron(0 13 ? * 3,5 *)" // 8am CST daily
+
+  // For testing only
+#   schedule_expression = "cron(* * * * ? *)" // every minute
 }
 
 // Give event bridge permission to invoke Lambda

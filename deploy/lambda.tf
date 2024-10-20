@@ -69,6 +69,17 @@ resource "aws_iam_policy" "lambda_execution_role_policy" {
         Effect   = "Allow",
         Resource = aws_secretsmanager_secret.ticketmaster_api_key.arn
       },
+      {
+        Effect = "Allow"
+        Action = [
+          "logs:CreateLogStream",
+          "logs:PutLogEvents"
+        ]
+        Resource = [
+          aws_cloudwatch_log_group.event_search_log_group.arn,
+          "${aws_cloudwatch_log_group.event_search_log_group.arn}:*"
+        ]
+      }
     ]
   })
 }
@@ -103,6 +114,7 @@ resource "aws_lambda_function" "event_search" {
   runtime       = "java21"
   architectures = ["x86_64"]
   memory_size   = 256
+  depends_on = [aws_cloudwatch_log_group.event_search_log_group]
   logging_config {
     log_format = "Text"
   }
@@ -116,4 +128,9 @@ resource "aws_lambda_function" "event_search" {
     security_group_ids = [aws_security_group.event_search_sg.id]
     subnet_ids         = [aws_subnet.private.id]
   }
+}
+
+resource "aws_cloudwatch_log_group" "event_search_log_group" {
+  name              = "/aws/lambda/${aws_lambda_function.event_search.function_name}"
+  retention_in_days = 7
 }
