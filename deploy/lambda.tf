@@ -1,3 +1,5 @@
+locals { path_to_jar = "../target/KpopAlerts-1.0-SNAPSHOT-jar-with-dependencies.jar" }
+
 resource "aws_s3_bucket" "build_artifacts" {
   #   bucket = "kpop-alerts-build-artifacts-private"
   // Only for sandbox development
@@ -8,7 +10,7 @@ resource "aws_s3_object" "kpop_alerts_jar" {
   bucket = aws_s3_bucket.build_artifacts.id
   key    = "event-search-lambda.jar"
   // Only for sandbox development
-  source = "../target/KpopAlerts-1.0-SNAPSHOT-jar-with-dependencies.jar"
+  source = local.path_to_jar
 }
 
 resource "aws_secretsmanager_secret" "ticketmaster_api_key" {
@@ -93,6 +95,7 @@ resource "aws_lambda_function" "event_search" {
   s3_bucket         = aws_s3_bucket.build_artifacts.id
   s3_key            = aws_s3_object.kpop_alerts_jar.key
   s3_object_version = aws_s3_object.kpop_alerts_jar.version_id
+  source_code_hash  = filebase64sha256(local.path_to_jar)
   #   layers                         = var.layers
   handler       = "org.example.lambda.EventSearchHandler"
   role          = aws_iam_role.event_search_execution_role.arn
@@ -105,7 +108,7 @@ resource "aws_lambda_function" "event_search" {
   }
   environment {
     variables = {
-      API_KEY_ARN = aws_secretsmanager_secret.ticketmaster_api_key.arn
+      API_KEY_ARN   = aws_secretsmanager_secret.ticketmaster_api_key.arn
       SNS_TOPIC_ARN = aws_sns_topic.user_updates.arn
     }
   }
