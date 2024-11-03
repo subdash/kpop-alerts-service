@@ -23,7 +23,7 @@ resource "aws_s3_object" "kpop_alerts_base_zip" {
   key    = "event-search-lambda_base.zip"
   // Only for sandbox development
   source = local.path_to_zip
-#   etag   = filemd5(local.path_to_zip)
+  #   etag   = filemd5(local.path_to_zip)
 }
 
 // KMS - secrets
@@ -132,7 +132,7 @@ resource "aws_lambda_permission" "allow_api" {
   action        = "lambda:InvokeFunction"
   function_name = aws_lambda_function.subscribe.function_name
   principal     = "apigateway.amazonaws.com"
-  source_arn = "${aws_api_gateway_rest_api.event_search_apigw.execution_arn}/*/*/*"
+  source_arn    = "${aws_api_gateway_rest_api.event_search_apigw.execution_arn}/*/*/*"
 }
 
 // Lambda/CloudWatch logging

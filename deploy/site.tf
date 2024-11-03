@@ -11,8 +11,8 @@ resource "aws_s3_object" "static_site_index" {
   bucket = aws_s3_bucket.static_site.id
   key    = "index.html"
   // Only for sandbox development
-  source = local.path_to_index
-  etag   = filemd5(local.path_to_index)
+  source       = local.path_to_index
+  etag         = filemd5(local.path_to_index)
   content_type = "text/html"
 }
 
